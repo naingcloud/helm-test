@@ -8,4 +8,4 @@ entries:
     description: A Helm chart for my application
     type: application
     urls:
-    - https://github.com/naingcloud/helm-test/blob/main/currency-app-0.1.0.tgz
+    - https://raw.githubusercontent.com/naingcloud/helm-test/main/currency-app-0.1.0.tgz
