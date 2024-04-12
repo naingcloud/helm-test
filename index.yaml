@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  kntchart:
+  - apiVersion: v2
+    name: kntchart
+    version: 0.1.0
+    appVersion: "0.1.0"
+    description: A Helm chart for my application
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/naingcloud/helm-test/main/currency-app-0.1.0.tgz
